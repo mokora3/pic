@@ -1,2 +1,2 @@
 # pic
-to provide pictures
+to provide pictures for in-app-msg
